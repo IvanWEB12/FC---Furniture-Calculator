@@ -1,4 +1,4 @@
-[REDME.pdf](https://github.com/user-attachments/files/31750130/REDME.pdf)# FC - Furniture-Calculator
+[REDME.pdf](https://github.com/user-attachments/files/31750130/REDME.pdf)
 FC - Furniture-Calculator -- это Программа для расчёта стоимости мебели (например, зеркала в алюминиевой раме, шкафы-купе, кухни).
 
 Хотите больше информации? Зайдите в раздел wiki и скачайте файл "REDME.pdf". Также этот файл находиться в zip-архиве, который идёт вместе с программой.
